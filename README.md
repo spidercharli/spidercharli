@@ -1,6 +1,6 @@
 # About Me 🕷️
 
-- 🔭 I’m currently working thru the Full Stack Developer Roadmap
+- 🔭 I’m currently working thru the [Full Stack Developer Roadmap](https://roadmap.sh/full-stack)
 - 🌱 I’m currently learning about HTML & CSS
 - 👯 I’m not looking to collaborate on anything yet, hopefully soon tho!
 - 🤔 I’m not looking for help with anything right now.
